@@ -1,4 +1,4 @@
 # Big Computation
 
-1. Running source code server dan client pada pc/komputer yang berbeda, jangan lupa set IP server pada client.py sesuai dengan ip pc/komputer yang menjalankan source code server.py.
-2. Server hanya 1, tetapi bisa banyak client(pc yang berbeda-beda).
+1. Run source code server dan client in different device/pc, dont forget to set IP server in client.py adjust to the IP address of PC that is being server.
+2. Server is only 1, but the client can morethan 1 (using different PC/devices).  
